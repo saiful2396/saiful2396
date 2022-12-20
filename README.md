@@ -5,7 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on andriod and ios(Flutter Developer) app develop
+- 🏆 I’m currently working on iOS mobile app develop (xcode).
+- 🔭 Also working on andriod and ios(Flutter Developer) app develop
 - 🌱 I’m currently learning flutter with dart
 - 💬 Ask me about Flutter dev
 - 📫 How to reach me: twitter -@saifulislampp23
